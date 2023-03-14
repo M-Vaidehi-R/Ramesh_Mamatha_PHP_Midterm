@@ -14,11 +14,11 @@
 
 	<div class="extra_btns">
 		<div>
-			<a class="json_btn" href="http://localhost/midterm-oop/views/json.php">View Json</a>
+			<a class="json_btn" href="http://localhost/Ramesh_Mamatha_PHP-Midterm/views/json.php">View Json</a>
 		</div>
 		
 		<div class="login_btn">
-			<a href="http://localhost/midterm-oop/index.php?task=login">Login</a>
+			<a href="http://localhost/Ramesh_Mamatha_PHP-Midterm/index.php?task=login">Login</a>
 		</div>
 	</div>
 </div>

@@ -24,8 +24,8 @@
 
 <div class="basic_btns">
 	<?php	
-	echo '<a class="btn_delete" href="http://localhost/midterm-OOP/index.php?task=delete&id='.$users[0]->user_id.'">Delete</a><br>';
-	echo '<a lass="btn_delete" href="http://localhost/midterm-OOP/index.php?task=update&id='.$users[0]->user_id.'">Update</a>';
+	echo '<a class="btn_delete" href="http://localhost/Ramesh_Mamatha_PHP-Midterm/index.php?task=delete&id='.$users[0]->user_id.'">Delete</a><br>';
+	echo '<a lass="btn_delete" href="http://localhost/Ramesh_Mamatha_PHP-Midterm/index.php?task=update&id='.$users[0]->user_id.'">Update</a>';
 	require_once('go_back.php');
 	?>
 </div>
